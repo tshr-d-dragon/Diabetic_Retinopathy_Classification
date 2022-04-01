@@ -39,8 +39,8 @@ To handle imbalance dataset, performed following augmentations using [Albumentat
 # Training
 
 Trained pretrained EfficientNetB0, Inception_ResNetV2, DenseNet121 and Xception models for both the dataset. 
-The training notebooks are present in **Models** folder.
-History details of all of the models are present in **History** folder
+The training notebooks are present in ***Models*** folder.
+History details of all of the models are present in ***History*** folder
 
 
 
