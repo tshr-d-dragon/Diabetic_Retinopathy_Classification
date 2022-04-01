@@ -44,4 +44,4 @@ History details of all of the models are present in **History** folder
 
 
 
-
+##### For better performance, we can train models for more epochs and balanced dataset will be needed for the same.
